@@ -8,6 +8,3 @@ This project is a modern and responsive login page featuring a beautiful glassmo
 - Social login icons (Google, GitHub, LinkedIn)
 - Responsive on mobile
 
-#How to Use
-Just open `index.html` in a browser.
-
